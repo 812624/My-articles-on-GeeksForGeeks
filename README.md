@@ -1,63 +1,61 @@
 # My-articles-on-GeeksForGeeks
 Here is the list of articles I have written during my internship at GeeksForGeeks
 
-[http://www.geeksforgeeks.org/find-a-pair-swapping-which-makes-sum-of-two-arrays-same/](Co)
+- [Find a pair swapping which makes sum of two arrays same](http://www.geeksforgeeks.org/find-a-pair-swapping-which-makes-sum-of-two-arrays-same/)
 
+- [Implement *, – and / operations using only + arithmetic operator](http://www.geeksforgeeks.org/implement-and-operations-using-only-arithmetic-operator/)
 
-http://www.geeksforgeeks.org/find-a-pair-swapping-which-makes-sum-of-two-arrays-same/
+- [std::string::find_last_not_of in C++](http://www.geeksforgeeks.org/stdstringfind_last_not_of-in-cpp/)
 
-http://www.geeksforgeeks.org/implement-and-operations-using-only-arithmetic-operator/
+- [std::string::find_first_not_of in C++](http://www.geeksforgeeks.org/stdstringfind_first_not_of-in-c/)
 
-http://www.geeksforgeeks.org/stdstringfind_last_not_of-in-cpp/
+- [Count of occurrences of a “1(0+)1” pattern in a string](http://www.geeksforgeeks.org/count-of-occurrences-of-a-101-pattern-in-a-string/)
 
-http://www.geeksforgeeks.org/stdstringfind_first_not_of-in-c/
+- [std::string::resize() in C++](http://www.geeksforgeeks.org/stdstringresize-in-c/)
 
-http://www.geeksforgeeks.org/count-of-occurrences-of-a-101-pattern-in-a-string/
+- [std::string::replace , std::string::replace_if in C++](http://www.geeksforgeeks.org/stdstringreplace-stdstringreplace_if-c/)
 
-http://www.geeksforgeeks.org/stdstringresize-in-c/
+- [std::string::insert() in C++](http://www.geeksforgeeks.org/stdstringinsert-in-c/)
 
-http://www.geeksforgeeks.org/stdstringreplace-stdstringreplace_if-c/
+- [Check if a string is Isogram or not](http://www.geeksforgeeks.org/check-string-isogram-not/)
 
-http://www.geeksforgeeks.org/stdstringinsert-in-c/
+- [std::string::assign() in C++](http://www.geeksforgeeks.org/stdstringassign-in-c/)
 
-http://www.geeksforgeeks.org/check-string-isogram-not/
+- [std::string::append() in C++](http://www.geeksforgeeks.org/stdstringappend-in-c/)
 
-http://www.geeksforgeeks.org/stdstringassign-in-c/
+- [Find sum of digits in factorial of a number](http://www.geeksforgeeks.org/find-sum-digits-factorial-number/)
 
-http://www.geeksforgeeks.org/stdstringappend-in-c/
+- [std::string::append vs std::string::push_back() vs Operator += in C++](http://www.geeksforgeeks.org/stdstringappend-vs-stdstringpush_back-vs-operator-c/)
 
-http://www.geeksforgeeks.org/find-sum-digits-factorial-number/
+- [std::string::push_back() in C++](http://www.geeksforgeeks.org/stdstringpush_back-in-cpp/)
 
-http://www.geeksforgeeks.org/stdstringappend-vs-stdstringpush_back-vs-operator-c/
+- [std::string::data() in C++](http://www.geeksforgeeks.org/stdstringdata-in-c/)
 
-http://www.geeksforgeeks.org/stdstringpush_back-in-cpp/
+- [Comparing String objects using Relational Operators in C++](http://www.geeksforgeeks.org/comparing-string-objects-using-relational-operators-c/)
 
-http://www.geeksforgeeks.org/stdstringdata-in-c/
+- [std::string::compare() in C++](http://www.geeksforgeeks.org/stdstringcompare-in-c/)
 
-http://www.geeksforgeeks.org/comparing-string-objects-using-relational-operators-c/
+- [std::string::replace_copy(), std::string::replace_copy_if in C++](http://www.geeksforgeeks.org/stdstringreplace_copy-stdstringreplace_copy_if-cpp/)
 
-http://www.geeksforgeeks.org/stdstringcompare-in-c/
+- [std::string::erase in C++](http://www.geeksforgeeks.org/stdstringerase-in-cpp/)
 
-http://www.geeksforgeeks.org/stdstringreplace_copy-stdstringreplace_copy_if-cpp/
+- [Elements of an array that are not divisible by any element of another array](http://www.geeksforgeeks.org/check-elements-array-divide-atleast-1-element-array/)
 
-http://www.geeksforgeeks.org/stdstringerase-in-cpp/
+- [Difference between Relational operator(==) and std::string::compare() in C++](http://www.geeksforgeeks.org/difference-between-relational-operator-and-stdstringcompare-in-c/)
 
-http://www.geeksforgeeks.org/check-elements-array-divide-atleast-1-element-array/
+- [Print pattern using only one loop | Set 1 (Using setw)](http://www.geeksforgeeks.org/print-pattern-using-only-one-loop/)
 
-http://www.geeksforgeeks.org/difference-between-relational-operator-and-stdstringcompare-in-c/
+- [Creating a tree with Left-Child Right-Sibling Representation](http://www.geeksforgeeks.org/creating-tree-left-child-right-sibling-representation/)
 
-http://www.geeksforgeeks.org/print-pattern-using-only-one-loop/
+- [Check whether K-th bit is set or not](http://www.geeksforgeeks.org/check-whether-k-th-bit-set-not/)
 
-http://www.geeksforgeeks.org/creating-tree-left-child-right-sibling-representation/
+- [C Program to calculate the value of sin(x) and cos(x)](http://www.geeksforgeeks.org/c-program-calculate-value-sinx-cosx/)
 
-http://www.geeksforgeeks.org/check-whether-k-th-bit-set-not/
+- [Move spaces to front of string in single traversal](http://www.geeksforgeeks.org/move-spaces-front-string-single-traversal/)
 
-http://www.geeksforgeeks.org/c-program-calculate-value-sinx-cosx/
+- [Toggling k-th bit of a number
+](http://www.geeksforgeeks.org/toggling-k-th-bit-number/)
 
-http://www.geeksforgeeks.org/move-spaces-front-string-single-traversal/
+- [Incompatibilities between C and C++ codes](http://www.geeksforgeeks.org/incompatibilities-between-c-and-cpp/)
 
-http://www.geeksforgeeks.org/toggling-k-th-bit-number/
-
-http://www.geeksforgeeks.org/incompatibilities-between-c-and-cpp/
-
-http://www.geeksforgeeks.org/class-template-multiple-parameters/
+- [Class template with multiple parameters](http://www.geeksforgeeks.org/class-template-multiple-parameters/)
